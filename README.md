@@ -70,10 +70,6 @@ Upon running the script, you'll be presented with a simple menu:
   - `bayar_tagihan(bill_id)`: Pays the specified bill.
   - `main_menu()`: Displays the interactive menu and handles user input.
 
-## Project Demo
-
-[![USSD Service Demo](https://img.youtube.com/vi/YOUR_DEMO_VIDEO_LINK/0.jpg)](https://www.youtube.com/watch?v=YOUR_DEMO_VIDEO_LINK)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -88,4 +84,4 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 **Fausta Akbar Wijaya**
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [GitHub](https://github.com/your-username) if you have any questions or suggestions!
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/faustaakbar/) or [GitHub](https://github.com/FaustaAkbar) if you have any questions or suggestions!
